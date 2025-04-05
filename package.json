@@ -1,0 +1,13 @@
+{
+  "name": "cepamex-render-backend",
+  "version": "1.0.0",
+  "description": "Backend para Cepamex Qro 2025 desplegado en Render",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3"
+  }
+}
